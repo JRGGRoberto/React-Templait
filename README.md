@@ -74,7 +74,9 @@ Execute
     yarn dev    -> para executar em desenvolvimento, será gerado um bundle.js legivel
 
 ou 
+
     yarn build    -> para executar em produção, será gerado um bunble.js mimificado
+
 
 A segunda mensagem mostra onde o endereço do servidor:
     * http://localhost:8080
